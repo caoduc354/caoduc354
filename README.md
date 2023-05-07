@@ -9,10 +9,6 @@ i'm currently working on Comartek
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CAD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 CAD learn to DEVELOPMENT
 
----
-[![](https://visitcount.itsvg.in/api?id=CAD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
