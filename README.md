@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on Comartek
+i'm currently working on TNTech
 
 
 # 💻 Tech Stack:
